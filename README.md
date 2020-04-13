@@ -2,8 +2,8 @@
 Project team
 
 Team member:
-Yang, Yuehua
-Chitle, Tanhya
-Manning, Jerry
-Tudy, Bhanuprasad
-Durkin, Patrick
+Yuehua Yang,
+Tanhya Chitle,
+Jerry Manning,
+Bhanuprasad Tudy,
+Patrick Durkin
