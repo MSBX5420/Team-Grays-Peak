@@ -6,8 +6,7 @@ Yuehua Yang, Tanhya Chitle, Jerry Manning, Bhanuprasad Tudy, Patrick Durkin
 
 Dataset: The dataset we use is the CDC news with COVID-19 related articles since March 26. It includes 4609 rows and 7 columns. The seven categories show the authors, title, publish date, description and text information of each article. It also includes the url link for each article. 
 From the data, we aim to explore the text dominated fields to come up with analysis on patterns in the data. We also have an idea to merge this dataset with stock market data to understand the influence of news on the stock market.
-
-Thus, the other dataset we want to use is the stock market data with the similar time period. The data is for the past 4 months with stock prices for each day the market is open. It includes  
+Thus other dataset we want to use is the stock market data with the similar time period. The data is for the past 4 months with stock prices for each day the market is open. It includes the data of bitcoin, Dow Jones, NASDAQ and SP500 with opening price, highest price, lowest price, close price, adj close price and volume.
 
 
 Functional Specifications: 
