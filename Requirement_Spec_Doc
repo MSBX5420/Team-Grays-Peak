@@ -3,9 +3,11 @@ Unstructured Data Modelling/Analysis
 Yuehua Yang, Tanhya Chitle, Jerry Manning, Bhanuprasad Tudy, Patrick Durkin 
 
 
+
 Dataset: The dataset we will use is the CDC news with COVID-19 related articles since March 26. It includes 4609 rows and 7 columns, with each row representing a news publication. The seven categories show the article number, author(s), title, publish date, a description, the text of the article and the “url” location of the article. 
 From the data, we aim to explore the text dominated fields and analyze any patterns found in the data. The types of patterns we are looking to study are trends in positive words, trends in negative words, possibly trends in emotion (fear, excitement, etc.), possibly trends in exaggeration (unprecedented, record, unparallel) as well as general volume.
 The goal would be to correlate this data to stock market fluctuations on a day-to-day comparison. Our stock market data is comprised of four (4) data table of daily values from the (i) S&P 500 Futures, (ii) Nasdaq, (iii) DowJones, and (iv) Bitcoin-USD markets/indexes. Our data for the stock market spans the entire duration of the news articles referenced and thus will allow us to quantify a correlation.  
+
 
 Functional Specifications: 
 
