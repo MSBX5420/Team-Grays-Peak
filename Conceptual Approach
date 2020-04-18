@@ -1,0 +1,19 @@
+Word count:
+	1. Set up an analysis of entire news article data set
+		○ Aggregate words into clusters of positive/negative words with reference to entire data set
+			§ We need to set parameters to define positive and negative words (emotional (afraid, excited), direct (down, up), projections (exponential, reduction))
+			§ Aggregate words into clusters of magnitude of entire data set (Words such as unprecedented, typical, accelerate)
+		○ Possibly look at phrases (multiple words) of entire data set
+    
+	2. Segregate our clusters into daily findings
+		○ Correlate each daily cluster result to positive and negatives
+    ○ Possibly simplify further into a 'mean' of positives and negatives (or other such comparison) to give a single value for each day
+			§ This value would be what we correlate to stock market value
+		○ We also may want to have multiple values per day, with each value representing different cluster or portion of cluster so we can analyze divergence
+		○ With a single value or single group of values per day we can create a line graph running along same axis as stock market
+		○ With daily data it would be good to look into overall volume of articles/words on daily basis
+    ***overall goal of step 2 is to organize our findings into a/many daily value(s) that we can begin comparisons against.*** 
+    
+	3. We then plot market values as percentage changes on same axis and run correlation 
+		○ It would be a good effort to correlate to day 'x' data from word count findings to day 'x-1', 'x' and 'x+1' market values, as well as others, to check for lead/lag correlations.
+		○ We could also plot volume levels with same checks as above to see if increase/decrease in news affects market volumes
